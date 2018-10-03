@@ -1,4 +1,12 @@
 title: Geek Mind
-description: My personal blog. This is the way that I document and share what I learned. 
-pagination: 5
+description: >-
+  My personal blog. This is the way that I document and share what I learned.
+  Expect topics about C++, Ruby and Java.
+github_username: almsilva
+
+markdown: kramdown
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-feed
+
+pagination: 5
