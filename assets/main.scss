@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import "minima";
+
+body {
+  font-family: 'Lato', sans-serif !important;
+  background-color: #fbfbfb !important;
+}
+
+.site_header {
+  border: none !important;
+}
+
+.post-meta {
+  font-size: 11px !important;
+  margin-bottom: -30px !important;
+}
+
+.post-list-heading, .rss-subscribe, .footer-headingi, .trigger {
+  display: none !important;
+}
+
+a:link, a:hover, a:active, a:visited {
+  color: $text-color !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.site-footer {
+  border: none !important;
+}
